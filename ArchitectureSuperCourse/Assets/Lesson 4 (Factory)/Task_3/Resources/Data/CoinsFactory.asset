@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec13a0ccaadd479fb763a84436fed17d, type: 3}
+  m_Name: CoinsFactory
+  m_EditorClassIdentifier: 
+  _red: {fileID: -4198191140817886259, guid: 4ba541bd6313a114a9fa1be4876b6fe7, type: 3}
+  _yellow: {fileID: 8088337477928613567, guid: 9ca2bb82431bce74aabab5b5c8ee5a7f, type: 3}
+  _green: {fileID: -6227052217343091030, guid: d84fcc1ce2c66ce44b7cd07936eccce4, type: 3}
